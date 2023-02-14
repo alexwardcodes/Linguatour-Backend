@@ -1,3 +1,3 @@
-exports.box_get = (req, res) => {
-    res.render("home/box");
+exports.scramble_get = (req, res) => {
+    res.render("home/scramble");
   }
